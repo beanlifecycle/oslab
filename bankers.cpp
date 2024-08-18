@@ -56,6 +56,7 @@ for (k = 0; k < 5; k++) {
 }
 
 int flag = 1;
+int test = 0;
 
 for(int i = 0;i<n;i++)
 {
